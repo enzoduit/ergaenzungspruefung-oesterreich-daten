@@ -1,0 +1,171 @@
+{
+ "name": "Ergänzungsprüfungen am Vorstudienlehrgang Wien (VWU) 2026/27: Termine, Gebühren, Formate",
+ "dateModified": "2026-10-07",
+ "publisher": "vguh-vorbereitung.com (VWUPass-Informationsnetz, keine offizielle Seite von VWU/OeAD)",
+ "source": "https://vorstudienlehrgang.oead.at/de/wien/ergaenzungspruefungen",
+ "sources": [
+  "https://vorstudienlehrgang.oead.at/de/wien/ergaenzungspruefungen",
+  "https://vorstudienlehrgang.oead.at/de/wien/erstanmeldung",
+  "https://vorstudienlehrgang.oead.at/de/graz/pruefungen",
+  "https://www.vwu-info.at (EPD-Prüfungsinformation, gültig ab Juni 2026)"
+ ],
+ "license": "CC BY 4.0 - Nutzung frei mit Quellenangabe und Link auf https://vguh-vorbereitung.com/ergaenzungspruefung-oesterreich-daten/",
+ "disclaimer": "Alle Angaben ohne Gewähr; verbindlich sind ausschließlich die offiziellen Seiten von VWU/OeAD.",
+ "exam_dates_vwu": [
+  {
+   "termin": "2026-11",
+   "anm_von": "2026-10-16",
+   "anm_bis": "2026-10-29",
+   "D": "2026-11-10",
+   "E": "2026-11-11",
+   "M": "2026-11-09",
+   "mue_von": "2026-11-30",
+   "mue_bis": "2026-12-03",
+   "zeugnis": "2026-12-07",
+   "ausserhalb": true
+  },
+  {
+   "termin": "2027-01",
+   "anm_von": "2026-12-04",
+   "anm_bis": "2026-12-17",
+   "D": "2027-01-11",
+   "E": "2027-01-12",
+   "M": "2027-01-13",
+   "mue_von": "2027-01-25",
+   "mue_bis": "2027-01-29",
+   "zeugnis": "2027-02-02",
+   "ausserhalb": false
+  },
+  {
+   "termin": "2027-03",
+   "anm_von": "2027-02-05",
+   "anm_bis": "2027-02-18",
+   "D": "2027-03-03",
+   "E": "2027-03-01",
+   "M": "2027-03-02",
+   "mue_von": "2027-03-15",
+   "mue_bis": "2027-03-19",
+   "zeugnis": "2027-03-23",
+   "ausserhalb": false
+  },
+  {
+   "termin": "2027-04",
+   "anm_von": "2027-03-26",
+   "anm_bis": "2027-04-08",
+   "D": "2027-04-21",
+   "E": "2027-04-19",
+   "M": "2027-04-20",
+   "mue_von": "2027-05-10",
+   "mue_bis": "2027-05-14",
+   "zeugnis": "2027-05-19",
+   "ausserhalb": true
+  },
+  {
+   "termin": "2027-06",
+   "anm_von": "2027-05-12",
+   "anm_bis": "2027-05-25",
+   "D": "2027-06-07",
+   "E": "2027-06-08",
+   "M": "2027-06-09",
+   "mue_von": "2027-06-21",
+   "mue_bis": "2027-06-25",
+   "zeugnis": "2027-06-29",
+   "ausserhalb": false
+  }
+ ],
+ "fees_per_exam_eur_vwu": [
+  {
+   "fach": "Deutsch",
+   "eur": 66
+  },
+  {
+   "fach": "Englisch",
+   "eur": 66
+  },
+  {
+   "fach": "Mathematik",
+   "eur": 66
+  },
+  {
+   "fach": "Geschichte",
+   "eur": 46
+  },
+  {
+   "fach": "Geografie",
+   "eur": 46
+  },
+  {
+   "fach": "Biologie",
+   "eur": 46
+  },
+  {
+   "fach": "Physik",
+   "eur": 46
+  },
+  {
+   "fach": "Chemie",
+   "eur": 46
+  }
+ ],
+ "epd_written": {
+  "gesamtdauer_min": 180,
+  "gesamtpunkte": 75,
+  "bestanden_ab_punkten": 45,
+  "teile": [
+   {
+    "teil": "A Leseverstehen",
+    "minuten": 50,
+    "punkte": 20,
+    "mindestpunkte": 10
+   },
+   {
+    "teil": "B Hörverstehen",
+    "minuten": 35,
+    "punkte": 15,
+    "mindestpunkte": 5
+   },
+   {
+    "teil": "C Strukturen und Wortschatz",
+    "minuten": 35,
+    "punkte": 15,
+    "mindestpunkte": 7
+   },
+   {
+    "teil": "D Textproduktion",
+    "minuten": 60,
+    "punkte": 25,
+    "mindestpunkte": 12
+   }
+  ],
+  "notenschluessel": {
+   "1": "75-69",
+   "2": "68,5-61",
+   "3": "60,5-53",
+   "4": "52,5-45",
+   "5": "44,5-0"
+  }
+ },
+ "rules": {
+  "anmeldung": "online ueber portal.vwu.at, nach Ende der Anmeldefrist nicht moeglich",
+  "voraussetzung": "gueltiger Zulassungsbescheid einer wissenschaftlichen Wiener Universitaet mit vorgeschriebener Ergaenzungspruefung",
+  "wiederholungen_max": 4,
+  "abmeldung": "bis eine Woche vor dem ersten Pruefungstag",
+  "muendlich_nur_nach_positiver_schriftlicher": [
+   "Deutsch",
+   "Englisch",
+   "Mathematik"
+  ],
+  "pruefungssenat_personen": 3,
+  "termine_pro_jahr": 6
+ },
+ "course_fees_ws_2026_27_eur": {
+  "direkt_am_VWU": 612,
+  "kooperationspartner": 1850,
+  "kooperationspartner_materialbeitrag": 40,
+  "unterrichtseinheiten": 320
+ },
+ "graz_vguh": {
+  "gebuehr_je_pruefung_eur": 66,
+  "hinweis": "Mathematik nur schriftlich; Deutsch/Englisch inkl. mündlichem Teil"
+ }
+}
